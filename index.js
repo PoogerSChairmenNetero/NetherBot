@@ -15,7 +15,7 @@ client.on('message', msg=>{
 
 client.on('message', msg=>{
     if(msg.content === "Sneer"){
-        msg.reply('<:sneer:855622630215909376>');
+        msg.reply(`:sneer:`);
     }
 })
 
