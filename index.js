@@ -15,7 +15,7 @@ client.on('message', msg=>{
 
 client.on('message', msg=>{
     if(msg.content === "Sneer"){
-        msg.reply(<:3face:862515895318741022>);
+        msg.reply("<:3face:862515895318741022>");
     }
 })
 
