@@ -9,7 +9,7 @@ client.on('ready', () =>{
 
 client.on('message', msg=>{
     if(msg.content === "Nether Client"){
-        msg.reply('Berry Client is not released yet please be patient.');
+        msg.reply('Nether Client is not released yet please be patient.');
     }
 })
 
